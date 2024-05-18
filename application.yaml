@@ -8,5 +8,5 @@ eureka:
       defaultZone: ${EUREKA_SERVER_ADDRESS:http://localhost:8761/eureka}
 okta:
   oauth2:
-    issuer: https://dev-57924009.okta.com/oauth2/default
+    issuer: https://dev-75809164.okta.com/oauth2/default
     audience: api://default
